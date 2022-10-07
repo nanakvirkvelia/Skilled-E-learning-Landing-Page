@@ -293,4 +293,11 @@
     .section8 > .box {
       margin-bottom: 140px;
     }
+      .section2 {
+          font-size: 32px;
+line-height: 40px;
   }
+      .section4 > .box > p, .section5 > .box > p {
+          margin-bottom: 52px;
+      }
+}
